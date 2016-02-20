@@ -1,0 +1,36 @@
+{
+  "name": "abslabs",
+  "version": "0.0.1",
+  "description": "A simple REST API using Node.js",
+  "main": "app.js",
+  "dependencies": {
+    "express": "4.13.x",
+    "bootstrap": "4.0.0-alpha.2",
+    "angular": "1.5.x",
+    "jquery": "2.2.x",
+    "jade": "1.11.x"
+  },
+  "devDependencies": {
+    "mocha": "2.4.x",
+    "should": "8.2.x",
+    "karma": "0.13.x",
+    "less": "2.6.x"
+  },
+  "engines": {
+    "node": "4.2.x"
+  },
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/betovar/abslabs"
+  },
+  "keywords": [
+    "mongodb",
+    "express",
+    "angular",
+    "node"
+  ],
+  "license": "MIT"
+}
