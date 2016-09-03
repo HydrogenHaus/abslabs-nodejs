@@ -8,7 +8,7 @@
     "bootstrap": "4.0.0-alpha.2",
     "angular": "1.5.x",
     "jquery": "2.2.x",
-    "jade": "1.11.x"
+    "pug": "2.0.0-beta6"
   },
   "devDependencies": {
     "mocha": "2.4.x",
