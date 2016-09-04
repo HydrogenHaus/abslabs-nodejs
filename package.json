@@ -4,33 +4,34 @@
   "description": "A simple REST API using Node.js",
   "main": "app.js",
   "dependencies": {
-    "express": "4.13.x",
-    "bootstrap": "4.0.0-alpha.2",
-    "angular": "1.5.x",
-    "jquery": "2.2.x",
+    "express": "4.13.0",
+    "bootstrap": "4.0.0-alpha.3",
+    "angular": "1.x",
+    "jquery": "2.x",
     "pug": "2.0.0-beta6"
   },
   "devDependencies": {
-    "mocha": "2.4.x",
-    "should": "8.2.x",
-    "karma": "0.13.x",
-    "less": "2.6.x"
+    "mocha": "2.x",
+    "should": "8.x",
+    "karma": "0.x",
+    "less": "2.x"
   },
   "engines": {
-    "node": "4.2.x"
+    "node": "4.x"
   },
   "scripts": {
     "start": "node app.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/betovar/abslabs"
+    "url": "https://github.com/HydrogenHaus/abslabs-nodejs"
   },
   "keywords": [
     "mongodb",
     "express",
     "angular",
-    "node"
+    "node",
+    "color-kinetics"
   ],
   "license": "MIT"
 }
